@@ -43,6 +43,12 @@ Add whatever helps you do your job. This is your cheat sheet.
 
 - **桌面（Public）**: `C:\Users\Public\Desktop`
   - 公共桌面文件夹，存放快捷方式等
+  - **默认保存路径**：截图、文件等统一保存到此目录
+
+## Browser
+
+- **agent-browser**: 默认使用 `--headed` 模式（显示真实浏览器窗口），不再使用无头模式
+  - 截图保存路径：`C:\Users\GDZT\Desktop`（`C:\Users\Public\Desktop` 无写入权限）
 
 ## Application Paths
 
